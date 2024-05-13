@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = ./backend/
+[submodule "solar-frontend"]
+	path = solar-frontend
+	url = ./solar-frontend/
